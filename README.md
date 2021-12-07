@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayhangursan
 - 👀 I’m interested in Signal and Image processing, particulary MRI/MRSI 
-- 🌱 I’m currently learning everything that could help me in my PhD :). 
+- 🌱 I’m currently learning everything that could help me in my PhD. 
 - 💞️ I’m looking to collaborate on MR Spectroscopy data reconstruction and post processing.
 - 📫 How to reach me a.gursan@umcutrecht.nl
 
